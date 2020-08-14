@@ -1,0 +1,4 @@
+include ':LifecyclePlugin'
+//include ':buildSrc'
+include ':app'
+rootProject.name = "AsmDemo"
